@@ -22,7 +22,7 @@
 **社区贡献与维护者名单**
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-|[<img src="https://avatars1.githubusercontent.com/u/2942042?s=100&v=4" width="100px;"/><br /><sub><b>周筱鲁</b></sub>](https://annan.tk)<br />|[<img src="https://avatars2.githubusercontent.com/u/39580782?s=100&v=4" width="100px;"/><br /><sub><b>南安</b></sub>](https://annan.tk)<br />|[<img src="https://avatars0.githubusercontent.com/u/13991692?s=100&v=4" width="100px;"/><br /><sub><b>bingmax</b></sub>](https://github.com/bingmaxx)<br />|[<img src="https://avatars3.githubusercontent.com/u/24839503?s=100&v=4" width="100px;"/><br /><sub><b>xiaoxin_qiao</b></sub>](https://github.com/qiao19950428)<br />|
+|[<img src="https://avatars1.githubusercontent.com/u/2942042?s=100&v=4" width="100px;"/><br /><sub><b>周筱鲁</b></sub>](https://annan.tk)<br />|[<img src="https://avatars2.githubusercontent.com/u/39580782?s=100&v=4" width="100px;"/><br /><sub><b>南安</b></sub>](https://annan.tk)<br />|[<img src="https://avatars0.githubusercontent.com/u/13991692?s=100&v=4" width="100px;"/><br /><sub><b>bingmax</b></sub>](https://github.com/bingmaxx)<br />|[<img src="https://avatars3.githubusercontent.com/u/24839503?s=100&v=4" width="100px;"/><br /><sub><b>leyla_qiao</b></sub>](https://github.com/leylatop)<br />|
 | :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
