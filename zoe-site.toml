@@ -1,0 +1,49 @@
+title = "1小时指南"
+description = "你的一生只有约3万天，请每天花5分钟了解自己，1小时了解世界。"
+# this filed used by manifest plugin
+# which only supports:
+# - project root based relative path
+# - absolute path
+# - remote url
+# so, we must use absolute path at here
+logo = "${__dirname}/images/1hour-guide.png"
+version = "alpha"
+primaryColor = "green"
+baseContentDir = [ "${__dirname}/content" ]
+zoePlugins = [ "src/plugins/blog-post" ]
+# gtagTrackingIds = [ "" ]
+
+[author]
+name = "Zoe"
+email = "hi@zoe.im"
+homepage = "https://zoe.im"
+avatar = "https://github.com/jiusanzhou.png"
+
+[[navs]]
+title = "关于我们"
+href = "/about"
+
+[socials]
+email = "hi@wuma.dev"
+github = "wumadev"
+
+[copyright]
+from = 2_018
+holder = "${zoe.author.name}"
+location = "Earth"
+
+[layouts]
+default = """
+maxWidth: ${zoe.maxWidth} # ["100%", "80%", "80%", "80%", "60rem"]
+header:
+  logoProps:
+    textColor: 'unset'
+footer:
+  disableBorder: true
+  disableGotop: true
+  disableLogo: false
+  disableSocials: false
+  disableLinks: false
+  logoProps:
+    textColor: 'unset'
+"""
