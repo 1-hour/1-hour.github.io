@@ -27,7 +27,7 @@
 
 **其他反馈沟通社群**
 
-|<img src="https://github.com/jiusanzhou/jiusanzhou.github.io/raw/master/static/WeChat-JohnCx.jpeg" width="100px;"/><br /><b>WeChat Group</b><br /><sub>添加微信号，发送`1hour guide`</sub>|
+|<img src="https://github.com/jiusanzhou/jiusanzhou.github.io/raw/archived/static/WeChat-JohnCx.jpeg" width="100px;"/><br /><b>WeChat Group</b><br /><sub>添加微信号，发送`1hour guide`</sub>|
 |:-:|
 
 ## :coffee: 支持我们
